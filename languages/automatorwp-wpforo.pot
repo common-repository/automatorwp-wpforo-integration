@@ -1,0 +1,82 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: AutomatorWP - wpForo\n"
+"Report-Msgid-Bugs-To: https://automatorwp.com/\n"
+"POT-Creation-Date: 2020-06-16 09:08+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: GamiPress (https://automatorwp.com/)\n"
+"Language-Team: GamiPress <contact@automatorwp.com>\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: libraries\n"
+
+#: automatorwp-wpforo.php:126
+#, php-format
+msgid "AutomatorWP - wpForo requires %s and %s in order to work. Please install and activate them."
+msgstr ""
+
+#: automatorwp-wpforo.php:139
+msgid "You can uninstall AutomatorWP - wpForo Integration because you already have the pro version installed and includes all the features of the free version."
+msgstr ""
+
+#: includes/triggers/create-reply.php:26
+msgid "User replies to a topic of a forum"
+msgstr ""
+
+#: includes/triggers/create-reply.php:27
+msgid "User <strong>replies</strong> to a topic of a forum"
+msgstr ""
+
+#: includes/triggers/create-reply.php:29
+#, php-format
+msgid "User replies to %1$s of %2$s %3$s time(s)"
+msgstr ""
+
+#: includes/triggers/create-reply.php:31
+#, php-format
+msgid "User replies to %1$s of %2$s"
+msgstr ""
+
+#: includes/triggers/create-reply.php:41
+msgid "Topic:"
+msgstr ""
+
+#: includes/triggers/create-reply.php:42
+msgid "any topic"
+msgstr ""
+
+#: includes/triggers/create-reply.php:51 includes/triggers/create-topic.php:41
+msgid "Forum:"
+msgstr ""
+
+#: includes/triggers/create-reply.php:52 includes/triggers/create-topic.php:42
+msgid "any forum"
+msgstr ""
+
+#: includes/triggers/create-topic.php:26
+msgid "User creates a topic on a forum"
+msgstr ""
+
+#: includes/triggers/create-topic.php:27
+msgid "User <strong>creates a topic</strong> on a forum"
+msgstr ""
+
+#: includes/triggers/create-topic.php:29
+#, php-format
+msgid "User creates a topic on %1$s of %2$s time(s)"
+msgstr ""
+
+#: includes/triggers/create-topic.php:31
+#, php-format
+msgid "User creates a topic on %1$s"
+msgstr ""
